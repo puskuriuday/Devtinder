@@ -1,0 +1,14 @@
+{
+  "name": "dev-tinder",
+  "version": "1.0.0",
+  "description": "Tinder project ",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node src/app.js"
+  },
+  "author": "uday",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
